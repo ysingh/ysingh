@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Yudi
+### Hi 👋 I'm Yudi
+
+<hr />
 
 - 🔭 Working as a Backend Engineer @ Greenlight Financial
 - 🤓 Graduate Student @ Georgia Tech studying Computing Systems
