@@ -1,7 +1,10 @@
 ### Hi there 👋 
 
+Software Engineer @ greenlight
+
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ysingh&count_private=true&show_icons=true&theme=dark)
-  ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ysingh&count_private=true&show_icons=true&theme=dark)
+   <hr />
+  ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ysingh&count_private=true&show_icons=true&theme=dark&layout=compact)
   
 
 <!--
