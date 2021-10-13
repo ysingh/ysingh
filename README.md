@@ -2,7 +2,7 @@
 
 <hr />
 
-- 🔭 Working as a Backend Engineer @ Greenlight Financial
+- 🔭 Working as a Senior Backend Engineer @ Dave Bank
 - 🤓 Graduate Student @ Georgia Tech studying Computing Systems
 - 😄 Pronouns: he/him. they/them
 
